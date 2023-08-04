@@ -20,3 +20,16 @@
     - plugins/AuthMe-5.6.0-beta2.jar added
     - plugins/FastLoginBukkit.jar added
     - plugins/ProtocolLib.jar added
+## 2023年8月4日
+1. 更新服务端配置文件
+  - 修正自动重启
+  - File change:
+    - start.bat updated
+    - run.bat added
+    - spigot.yml updated
+2. 插件更新
+  - [Dynmap]([https://modrinth.com/plugin/dynmap](https://www.spigotmc.org/resources/dynmap%C2%AE.274/)https://www.spigotmc.org/resources/dynmap%C2%AE.274/) [3.6-beta-2](https://legacy.curseforge.com/minecraft/bukkit-plugins/dynmap/files/4585831) -> [3.6](https://legacy.curseforge.com/minecraft/bukkit-plugins/dynmap/files/4632182)
+  - Flie change
+    - plugins/Dynmap-3.6-beta-2-spigot.jar removed
+    - plugins/Dynmap-3.6-spigot.jar added
+    - plugins/dynmap/* updated
