@@ -27,9 +27,12 @@
     - start.bat updated
     - run.bat added
     - spigot.yml updated
-2. 插件更新
-  - [Dynmap]([https://modrinth.com/plugin/dynmap](https://www.spigotmc.org/resources/dynmap%C2%AE.274/)https://www.spigotmc.org/resources/dynmap%C2%AE.274/) [3.6-beta-2](https://legacy.curseforge.com/minecraft/bukkit-plugins/dynmap/files/4585831) -> [3.6](https://legacy.curseforge.com/minecraft/bukkit-plugins/dynmap/files/4632182)
+2. 更新Dynmap配置
+  - 增加登录功能
+  - 更新UI
   - Flie change
+    - plugins/dynmap/* updated
+3. 插件更新
+  - [Dynmap](https://www.spigotmc.org/resources/dynmap%C2%AE.274/) [3.6-beta-2](https://legacy.curseforge.com/minecraft/bukkit-plugins/dynmap/files/4585831) -> [3.6](https://legacy.curseforge.com/minecraft/bukkit-plugins/dynmap/files/4632182)
     - plugins/Dynmap-3.6-beta-2-spigot.jar removed
     - plugins/Dynmap-3.6-spigot.jar added
-    - plugins/dynmap/* updated
